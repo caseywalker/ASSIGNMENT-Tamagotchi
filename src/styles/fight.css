@@ -1,0 +1,18 @@
+#fight {
+  background-color: #B1B417;
+  border: 1px solid red;
+  height: 512px;
+  width: 720px;
+}
+
+.card {
+  margin: auto;
+  margin-top: 50px;
+  color: white;
+}
+
+#fight img {
+  height: 150px;
+  width: 150px;
+  margin: auto;
+}
