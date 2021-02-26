@@ -1,0 +1,18 @@
+#play {
+  background-color: #6E9B53;
+  border: 1px solid red;
+  height: 512px;
+  width: 720px;
+}
+
+.card {
+  margin: auto;
+  margin-top: 50px;
+  color: white;
+}
+
+#play img {
+  height: 150px;
+  width: 150px;
+  margin: auto;
+}
